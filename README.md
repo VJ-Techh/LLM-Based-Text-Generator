@@ -1,2 +1,4 @@
 # LLM-Based-Text-Generator
-Built a Python function to interact with GPT-4o-mini, handling AI-generated responses.
+- Built a command-line chatbot using Hugging Face's Inference API that responds with a humorous, sarcastic tone.
+- Integrated environment variables for secure API usage and customized prompt structure with system/user roles.
+
